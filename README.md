@@ -1,4 +1,4 @@
-Profile card component main []
+Profile card component main [https://zanguraa.github.io/profile-card-component-main/]
 
 what I learned: 
 1. Positioning background with 2 image
