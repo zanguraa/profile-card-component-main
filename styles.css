@@ -3,7 +3,8 @@ body {
     max-width: 1440px;
     height: 100vh;
     font-family: 'Kumbh Sans', sans-serif;
-    background: url(./images/bg-pattern-top.svg) -55% 220% no-repeat, url(./images/bg-pattern-bottom.svg) 150% -170% no-repeat;
+    background: url(./images/bg-pattern-top.svg) no-repeat, url(./images/bg-pattern-bottom.svg) no-repeat;
+    background-position: right 52vw bottom 40vh, left 50vw top 50vh;
     background-color: #19a1ae;
     display: flex;
     justify-content: center;
